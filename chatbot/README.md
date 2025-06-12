@@ -1,4 +1,4 @@
-# Simple Chatty Bot
+# Simple Chat Bot
 
 This is my first Python project built through JetBrains Academy. It’s a simple command-line chatbot that interacts with the user by:
 
