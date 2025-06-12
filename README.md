@@ -6,4 +6,5 @@ Each folder includes a standalone project, following the lessons and challenges 
 
 ## Projects
 
-- [Simple Chat Bot](./chatbot) — a beginner chatbot that interacts with the user and demonstrates input/output, loops, and conditionals.
+- [Simple Chat Bot](./chatbot) — A beginner chatbot that interacts with the user and demonstrates input/output, loops, and conditionals.
+- [Zoo Keeper](./zookeeper) - A text-based animal habitat viewer that displays ASCII art for different animals based on user input. Includes input handling, list indexing, and a looping interface.
